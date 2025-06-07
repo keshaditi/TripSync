@@ -23,6 +23,7 @@ Booked Views: 📂 View all your booked hotels and travel tickets in one organiz
 Payment Gateway Simulation: Includes a simulated payment gateway using Paytm for smooth transaction processing.
 🤖 Planned: AI-Powered Chatbot
 Destination Suggestions: We plan to integrate a chatbot that can interact with users to understand their preferences and suggest ideal travel destinations, making trip planning even more personalized!
+
 🛠️ Technologies Used
 TripSync is built on a robust set of Java technologies:
 
